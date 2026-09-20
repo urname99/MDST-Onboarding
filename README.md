@@ -2,11 +2,6 @@
 
 # MDST Tutorials - F26
 
-### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)! 
-NOTE: this website contains all the guides for onboarding, but it does NOT contain the updated project list, as we are currently migrating to our own website for that.
-
-If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
-
 ## Setup
 
 If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScWowsKmEHkGCFQl-IM36JCPknYVdHxKoKFn_ClubupgdaYSg/viewform?usp=header) and join our mailing list. This will keep you up-to-date on the club.
@@ -17,11 +12,34 @@ If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1
 
 Notes: if you find yourself unable to follow the general guide, refer to some of these which are older setups guides
 
-3. Follow the general setup [guide](https://mdst-club.notion.site/General-Setup-Guide-f801e1c932e440ab8387330b41fcbe77).
+3. Older Setup Guide: [guide](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723).
 
-4. Follow the Git setup [guide](https://www.notion.so/mdst-club/Git-Setup-Guide-fa635f302a74491fb018892cd1da4697).
+## Submission
 
-For most people, (3) is the _hardest_ part of the tutorial! If you feel frustrated, know it is normal. Come see us at tutorials or office hours and we will help you out.
+**Due: 9/21/2026 11:59pm EST**
+
+Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ2M5rDR_G0guD9YzTnA5wOmbN7vYXFrZdsvS0VDP2v6qPkg/viewform?usp=sharing&ouid=105874256039052193076)
+
+## How we are supporting you
+
+These checkpoints are _not_ designed to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project. Note that this semester, we may restrict the number of new members we accept due to project size limits, so try your best on these!
+
+The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will be offering support with Office Hours 
+
+* OHs are not mandatory
+
+Office Hours #1 (9/10, 6-8 PM) 
+3353 Mason Hall
+
+Office Hours #2 (9/20, 11AM - 1PM) 
+3330 Mason Hall
+
+We are looking for:
+
+-   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These will be assessed based on ACCURACY this semester due to limited project spots. Don't worry, there are many spots available!
+-   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
+
+*If you completed the optional challenges, we will use your GitHub link to look through them. 
 
 ### What do I do if I cannot get the setup working in time?
 
@@ -50,34 +68,6 @@ Machine Learning - Loan Approval Prediction
 Deep Learning - Titanic
 
 RvF - Computer Vision: Fake Face Detection
-
-## How we are supporting you
-
-These checkpoints are _not_ designed to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project. Note that this semester, we may restrict the number of new members we accept due to project size limits, so try your best on these!
-
-The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will be offering support with Office Hours 
-
-* OHs are not mandatory
-
-Office Hours #1 (9/10, 6-8 PM) 
-3353 Mason Hall
-
-Office Hours #2 (9/20, 11AM - 1PM) 
-3330 Mason Hall
-
-
-## Submission
-
-**Due: 9/21/2026 11:59pm EST**
-
-Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ2M5rDR_G0guD9YzTnA5wOmbN7vYXFrZdsvS0VDP2v6qPkg/viewform?usp=sharing&ouid=105874256039052193076)
-
-We are looking for:
-
--   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These will be assessed based on ACCURACY this semester due to limited project spots. Don't worry, there are many spots available!
--   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
-
-*If you completed the optional challenges, we will use your GitHub link to look through them. 
 
 ## Contact
 
